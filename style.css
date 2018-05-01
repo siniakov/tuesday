@@ -1,0 +1,17 @@
+p{
+    color:brown;
+    background-color: darkgray;
+    font-family: fantasy, 'Times New Roman', Times, serif;
+}
+
+.yellow{
+    background:yellowgreen;
+}
+
+.blue{
+    background:blue;
+    color:white;
+}
+img{
+width:50%;
+}
